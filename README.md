@@ -32,5 +32,4 @@ Vďaka dlhoročnej praxi v špecializovaných doménach dokážem efektívne pre
 Zaujíma vás spolupráca, technická konzultácia alebo diskusia o budúcnosti AI vo vývoji?
 
 * 🌐 **Osobná webstránka:** [peterpucik.sk](https://www.peterpucik.sk)
-* 🧑‍💻 **GitHub:** [github.com/ppucik](https://github.com/ppucik)
-
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" /> **GitHub:** [github.com/ppucik](https://github.com/ppucik)
