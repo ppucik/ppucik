@@ -1,15 +1,15 @@
-# Peter Púčik 👋
+# Peter Púčik
 
 **Senior full‑stack developer & software architect**  
 Zameriavam sa na udržateľné riešenia, čistý kód a moderné webové a enterprise systémy.
 
 ---
 
-## 🚀 Na čom aktuálne pracujem
+### 🚀 Na čom aktuálne pracujem
 * **AI-Native SDLC:** Aktívne využívam a zavádzam AI nástroje do celého cyklu vývoja softvéru (SDLC).
 * **AI integrácie:** Prepájam tradičné .NET backendy s modernými AI možnosťami (LLM, RAG, embeddings).
 
-## 🛠️ Technologický stack
+### 🛠️ Technologický stack
 
 | Oblasť | Technológie |
 | :--- | :--- |
@@ -19,8 +19,9 @@ Zameriavam sa na udržateľné riešenia, čistý kód a moderné webové a ente
 | **Cloud & DevOps** | Azure, Docker, CI/CD pipelines, Jira |
 | **Iné** | Git, IIS, SharePoint, integračné služby |
 
-## 🧩 Špecializovaná expertíza
+### 🧩 Špecializovaná expertíza
 Vďaka dlhoročnej praxi v špecializovaných doménach dokážem efektívne prepájať technické riešenia s biznis požiadavkami:
+* 🏥 **NIS** (Nemocničné informačné systémy)
 * 🛰️ **GIS** (Geografické informačné systémy)
 * 🏗️ **CAD** (Computer-Aided Design) systémy
 * 📊 **Digitalizácia a dátové workflow**
@@ -28,7 +29,7 @@ Vďaka dlhoročnej praxi v špecializovaných doménach dokážem efektívne pre
 
 ---
 
-## 🤝 Poďme sa spojiť
+### 🤝 Poďme sa spojiť
 Zaujíma vás spolupráca, technická konzultácia alebo diskusia o budúcnosti AI vo vývoji?
 
 * 🌐 **Osobná webstránka:** [peterpucik.sk](https://www.peterpucik.sk)
