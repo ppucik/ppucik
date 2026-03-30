@@ -17,7 +17,7 @@ Zameriavam sa na udržateľné riešenia, čistý kód a moderné webové a ente
 | **Frontend** | Angular, Vue, TypeScript/JavaScript, HTML5, CSS3 |
 | **Databázy** | MS SQL Server, Postgres, MySQL, Redis |
 | **Cloud & DevOps** | Azure, Docker, CI/CD pipelines, Jira |
-| **Iné** | Git, IIS, SharePoint, integračné služby |
+| **Iné** | TFS/Git, IIS, SharePoint, integračné služby |
 
 ### 🧩 Špecializovaná expertíza
 Vďaka dlhoročnej praxi v špecializovaných doménach dokážem efektívne prepájať technické riešenia s biznis požiadavkami:
@@ -33,4 +33,3 @@ Vďaka dlhoročnej praxi v špecializovaných doménach dokážem efektívne pre
 Zaujíma vás spolupráca, technická konzultácia alebo diskusia o budúcnosti AI vo vývoji?
 
 * 🌐 **Osobná webstránka:** [peterpucik.sk](https://www.peterpucik.sk)
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" /> **GitHub:** [github.com/ppucik](https://github.com/ppucik)
