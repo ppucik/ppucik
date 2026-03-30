@@ -21,9 +21,9 @@ Zameriavam sa na udržateľné riešenia, čistý kód a moderné webové a ente
 
 ### 🧩 Špecializovaná expertíza
 Vďaka dlhoročnej praxi v špecializovaných doménach dokážem efektívne prepájať technické riešenia s biznis požiadavkami:
-* 🏥 **NIS** (Nemocničné informačné systémy)
-* 🛰️ **GIS** (Geografické informačné systémy)
-* 🏗️ **CAD** (Computer-Aided Design) systémy
+* 🏥 **NIS** – nemocničné informačné systémy
+* 🛰️ **GIS** - geografické informačné systémy
+* 🏗️ **CAD** – integrácie a spracovanie technických dát
 * 📊 **Digitalizácia a dátové workflow**
 * 🌐 **Komplexné integrácie CMS**
 
