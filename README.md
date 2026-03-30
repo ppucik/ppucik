@@ -1,19 +1,36 @@
-# Peter Púčik
+# Peter Púčik 👋
 
 **Senior full‑stack developer & software architect**  
 Zameriavam sa na udržateľné riešenia, čistý kód a moderné webové a enterprise systémy.
 
-### Čomu sa venujem
-- Návrh architektúry a vývoj API (.NET / C#)
-- Moderný JavaScript/TypeScript ekosystém
-- Integrácie (CMS, GIS, CAD) a dátové workflow
-- Modernizácia a refactoring existujúcich riešení
-- AI v praxi – LLM, RAG, embeddings, Copilot
+---
 
-### Ako pracujem
-- Transparentne, s dôrazom na udržateľnosť a čistotu riešení  
-- Tímovo – mentoring, code review, nastavovanie štandardov  
-- Pragmaticky – technológie sú prostriedok, nie cieľ
+## 🚀 Na čom aktuálne pracujem
+* **AI-Native SDLC:** Aktívne využívam a zavádzam AI nástroje do celého cyklu vývoja softvéru (SDLC).
+* **AI integrácie:** Prepájam tradičné .NET backendy s modernými AI možnosťami (LLM, RAG, embeddings).
 
-### Kontakt
-[github.com/ppucik](https://github.com/ppucik)
+## 🛠️ Technologický stack
+
+| Oblasť | Technológie |
+| :--- | :--- |
+| **Backend** | .NET (C#), ASP.NET Core, Entity Framework, REST API, OpenAPI |
+| **Frontend** | Angular, Vue, TypeScript/JavaScript, HTML5, CSS3 |
+| **Databázy** | MS SQL Server, Postgres, MySQL, Redis |
+| **Cloud & DevOps** | Azure, Docker, CI/CD pipelines, Jira |
+| **Iné** | Git, IIS, SharePoint, integračné služby |
+
+## 🧩 Špecializovaná expertíza
+Vďaka dlhoročnej praxi v špecializovaných doménach dokážem efektívne prepájať technické riešenia s biznis požiadavkami:
+* 🛰️ **GIS** (Geografické informačné systémy)
+* 🏗️ **CAD** (Computer-Aided Design) systémy
+* 📊 **Digitalizácia a dátové workflow**
+* 🌐 **Komplexné integrácie CMS**
+
+---
+
+## 🤝 Poďme sa spojiť
+Zaujíma vás spolupráca, technická konzultácia alebo diskusia o budúcnosti AI vo vývoji?
+
+* 🌐 **Osobná webstránka:** [peterpucik.sk](https://www.peterpucik.sk)
+* 🧑‍💻 **GitHub:** [github.com/ppucik](https://github.com/ppucik)
+
