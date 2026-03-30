@@ -1,16 +1,19 @@
-## Hi there 👋
+# Peter Púčik
 
-<!--
-**ppucik/ppucik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior full‑stack developer & software architect**  
+Zameriavam sa na udržateľné riešenia, čistý kód a moderné webové a enterprise systémy.
 
-Here are some ideas to get you started:
+### Čomu sa venujem
+- Návrh architektúry a vývoj API (.NET / C#)
+- Moderný JavaScript/TypeScript ekosystém
+- Integrácie (CMS, GIS, CAD) a dátové workflow
+- Modernizácia a refactoring existujúcich riešení
+- AI v praxi – LLM, RAG, embeddings, Copilot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ako pracujem
+- Transparentne, s dôrazom na udržateľnosť a čistotu riešení  
+- Tímovo – mentoring, code review, nastavovanie štandardov  
+- Pragmaticky – technológie sú prostriedok, nie cieľ
+
+### Kontakt
+[github.com/ppucik](https://github.com/ppucik)
