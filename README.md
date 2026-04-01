@@ -6,7 +6,7 @@ Zameriavam sa na udržateľné riešenia, čistý kód a moderné webové a ente
 ---
 
 ### 🚀 Na čom aktuálne pracujem
-* **AI-Native SDLC:** Aktívne využívam a zavádzam AI nástroje do celého cyklu vývoja softvéru (SDLC).
+* **AI-Native SDLC:** Aktívne využívam a zavádzam AI nástroje do celého cyklu vývoja softvéru.
 * **AI integrácie:** Prepájam tradičné .NET backendy s modernými AI možnosťami (LLM, RAG, embeddings).
 
 ### 🛠️ Technologický stack
@@ -14,8 +14,8 @@ Zameriavam sa na udržateľné riešenia, čistý kód a moderné webové a ente
 | Oblasť | Technológie |
 | :--- | :--- |
 | **Backend** | .NET (C#), ASP.NET Core, Entity Framework, REST API, OpenAPI |
-| **Frontend** | Angular, Vue, TypeScript/JavaScript, HTML5, CSS3 |
-| **Databázy** | MS SQL Server, Postgres, MySQL, Redis |
+| **Frontend** | WinForm, WPF, Angular, Vue, TypeScript/JavaScript, HTML5, CSS3 |
+| **Databázy** | MS SQL Server, Oracle, Postgres, MySQL, Redis |
 | **Cloud & DevOps** | Azure, Docker, CI/CD pipelines, Jira |
 | **Iné** | TFS/Git, IIS, SharePoint, integračné služby |
 
