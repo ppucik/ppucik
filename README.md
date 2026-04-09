@@ -13,7 +13,7 @@ Zameriavam sa na udržateľné riešenia, čistý kód a moderné webové a ente
 
 | Oblasť | Technológie |
 | :--- | :--- |
-| **Backend** | .NET (C#), ASP.NET Core, Entity Framework, REST API, OpenAPI, gRPC, ... |
+| **Backend** | .NET (C#), ASP.NET Core, Entity Framework, REST API, OpenAPI, gRPC, SignalR ... |
 | **Frontend** | Blazor, WPF, Angular, Vue, TypeScript/JavaScript, HTML5, CSS3, ... |
 | **Databázy** | MS SQL Server, Oracle, Postgres, MySQL, Redis |
 | **Cloud & DevOps** | Azure, Docker, CI/CD pipelines, Jira |
