@@ -15,7 +15,7 @@ Zameriavam sa na udržateľné riešenia, čistý kód a moderné webové a ente
 | :--- | :--- |
 | **Backend** | .NET (VB/C#), ASP.NET Core, Entity Framework, REST API, OpenAPI, gRPC, SignalR ... |
 | **Frontend** | WinForm, WebForm, Blazor, WPF, Angular, Vue, TypeScript/JavaScript, HTML5, CSS3, ... |
-| **Databázy** | MS SQL Server, Oracle, Postgres, MySQL, Redis, ... |
+| **Databázy** | MS SQL Server, Oracle, Postgres, MySQL, SQLite, Redis, ... |
 | **Cloud & DevOps** | Azure, Docker, CI/CD pipelines, Jira, ... |
 | **Iné** | TFS/Git, IIS, Nginx, SharePoint, integračné služby, ... |
 
